@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "nacim belkhir", email = "nbe@mirai-ml.com"}
 ]
 keywords = ["ecmwf", "meteorology", "weather", "forecast", "data", "download", "cli"]
 classifiers = [
@@ -45,10 +45,10 @@ ecmwf-download = "main:main"
 ecmwf-downloader = "main:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/ecmwf-datadownloaded"
-Repository = "https://github.com/yourusername/ecmwf-datadownloaded"
-Issues = "https://github.com/yourusername/ecmwf-datadownloaded/issues"
-Documentation = "https://github.com/yourusername/ecmwf-datadownloaded#readme"
+Homepage = "https://github.com/belkhir-nacim/ecmwf-datadownloaded"
+Repository = "https://github.com/belkhir-nacim/ecmwf-datadownloaded"
+Issues = "https://github.com/belkhir-nacim/ecmwf-datadownloaded/issues"
+Documentation = "https://github.com/belkhir-nacim/ecmwf-datadownloaded#readme"
 
 [build-system]
 requires = ["setuptools>=61.0", "wheel"]
